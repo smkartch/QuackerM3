@@ -105,7 +105,9 @@ public class FollowGenerator {
 
         for(User user : users) {
             Follow follow = new Follow(testUser, user);
+            Follow follow1 = new Follow(user, testUser);
             follows.add(follow);
+            follows.add(follow1);
         }
 
         // Sort by the specified sort order

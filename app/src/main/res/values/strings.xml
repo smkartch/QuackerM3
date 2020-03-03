@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Tweeter</string>
+    <string name="app_name">Quacker</string>
 
     <string name="homePageTitle">Home</string>
 
@@ -12,4 +12,30 @@
 
     <string name="sampleAlias">"@UserAlias"</string>
     <string name="sampleUserName">The User</string>
+    <string name="sampleTimeStamp">Feb 7</string>
+    <string name="sampleStatusMessage">This is a status</string>
+    <string name="status_prompt">What\'s on your mind?</string>
+    <string name="default_char_count">0</string>
+    <string name="max_char_count">/200</string>
+    <string name="add_photo">Add Photo</string>
+
+    <string name="user_handle_hint">\@Handle</string>
+    <string name="password">Password</string>
+    <string name="link_to_register_text">Don\'t have an account?</string>
+
+    <string name="sign_in">Sign In</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="link_to_login">Already Have An Account?</string>
+
+    <string name="continue_text">Continue</string>
+    <string name="search">Search</string>
+    <string name="options">Options</string>
+    <string name="logout">Logout</string>
+    <string name="follow">follow</string>
+    <string name="unfollow">unfollow</string>
+
+    <string name="no_user_alert">User does not exist</string>
+    <string name="ok">OK</string>
+    <string name="welcome_to_quacker">Welcome to Quacker</string>
 </resources>
