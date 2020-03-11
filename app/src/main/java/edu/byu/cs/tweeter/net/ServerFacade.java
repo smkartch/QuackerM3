@@ -8,7 +8,6 @@ import java.util.Map;
 import edu.byu.cs.tweeter.model.domain.Follow;
 import edu.byu.cs.tweeter.model.domain.Status;
 import edu.byu.cs.tweeter.model.domain.User;
-import edu.byu.cs.tweeter.model.services.LoginService;
 import edu.byu.cs.tweeter.net.request.FeedRequest;
 import edu.byu.cs.tweeter.net.request.FollowRequest;
 import edu.byu.cs.tweeter.net.request.FollowersRequest;

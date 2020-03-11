@@ -1,7 +1,5 @@
 package edu.byu.cs.tweeter.model.domain;
 
-import android.graphics.Bitmap;
-
 import org.jetbrains.annotations.NotNull;
 
 import java.util.Objects;
